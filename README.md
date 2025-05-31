@@ -33,3 +33,8 @@ Scoring System: The program keeps track of the user's score, showing it in real 
 CSS was used in the quiz's construction to ensure that it is completely responsive and offers the best possible experience on all platforms, including PCs, tablets, and smartphones.
 Interactive User Interface: The quiz's user-friendly buttons allow users to choose their answers, advance to the next question, and restart it after finishing it.
 
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f92d689c-1c4e-49a3-8e27-5a45ef1899ec)
+
+![Image](https://github.com/user-attachments/assets/64e09288-c6e9-4221-a6bb-e33be1ddb9fa)
